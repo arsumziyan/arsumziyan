@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arsumziyan"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=555" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/arsum-ziyan-7308a3334/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555" alt="LinkedIn" /></a>
+  <a href="mailto:arsumziyan@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=555" alt="Email" /></a>
   <a href="https://github.com/arsumziyan"><img src="https://img.shields.io/badge/GitHub-follow-ff2e63?style=flat&logo=github&logoColor=white&labelColor=555" alt="GitHub" /></a>
 </p>
 
