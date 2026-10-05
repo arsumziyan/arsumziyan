@@ -53,8 +53,8 @@ I started out building backend systems, and now I build across the stack, from S
     <td><img src="https://skillicons.dev/icons?i=swift,react,ts,js,tailwind&theme=dark" /></td>
   </tr>
   <tr>
-    <td><b>languages &amp; devops</b></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,docker,aws,jenkins&theme=dark" /></td>
+    <td><b>languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" /></td>
   </tr>
 </table>
 
