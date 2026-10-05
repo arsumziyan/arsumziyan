@@ -25,24 +25,6 @@ Software engineer specializing in **backend development**, **machine learning**,
 
 I started out building backend systems, and now I build across the stack, from SwiftUI interfaces to audio sentiment analysis models.
 
-    </td>
-    <td width="40%" valign="top">
-
-```text
-$ whoami
-arsum ziyan
-
-$ focus
-backend · ml · ios
-
-$ status
-always building
-```
-
-    </td>
-  </tr>
-</table>
-
 ## ⌁ what I'm building
 
 | | project | built with |
