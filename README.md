@@ -32,7 +32,6 @@ I started out building backend systems, and now I build across the stack, from S
 | 📱 | **iOS apps** with clean, native interfaces | SwiftUI |
 | 🎙️ | **Audio sentiment analysis** models | PyTorch, TensorFlow |
 | ⚙️ | **Backend systems** that stay up when it matters | Node, Spring, Postgres |
-| 🔗 | *[add your project here, with a link]* | |
 
 ## ⌁ stack
 
