@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3eeab0,100:0b1f1a&height=220&section=header&text=Arsum%20Ziyan&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=backend%20%C2%B7%20machine%20learning%20%C2%B7%20iOS&descSize=18&descAlignY=62" alt="Arsum Ziyan" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=3EEAB0&center=true&vCenter=true&width=520&height=40&lines=software+engineer;building+across+the+stack;always+building" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=3EEAB0&center=true&vCenter=true&width=520&height=40&lines=software+engineer;always+building" alt="typing intro" />
 
 <br/>
 
