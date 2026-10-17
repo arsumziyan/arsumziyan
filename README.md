@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-visit-0b1f1a?style=for-the-badge&logo=safari&logoColor=3eeab0" alt="Portfolio" /></a>
+<a href="https://arsumportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-visit-0b1f1a?style=for-the-badge&logo=safari&logoColor=3eeab0" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/arsum-ziyan-7308a3334/"><img src="https://img.shields.io/badge/LinkedIn-connect-0b1f1a?style=for-the-badge&logo=linkedin&logoColor=3eeab0" alt="LinkedIn" /></a>
 <a href="mailto:arsumziyan@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-0b1f1a?style=for-the-badge&logo=gmail&logoColor=3eeab0" alt="Email" /></a>
 <a href="https://github.com/arsumziyan"><img src="https://img.shields.io/badge/GitHub-follow-0b1f1a?style=for-the-badge&logo=github&logoColor=3eeab0" alt="GitHub" /></a>
@@ -26,7 +26,7 @@ I started out building backend systems, and now I build across the stack, from S
 
 ## ⌁ what I'm building
 
-| | project | built with |
+| | focus | built with |
 |---|---|---|
 | 📱 | **iOS apps** with clean, native interfaces | SwiftUI |
 | 🎙️ | **Audio sentiment analysis** models | PyTorch, TensorFlow |
@@ -37,15 +37,7 @@ I started out building backend systems, and now I build across the stack, from S
 <table>
   <tr>
     <td><b>backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,py,postgres,mongodb,firebase&theme=dark" alt="backend stack" /></td>
-  </tr>
-  <tr>
-    <td><b>ml &amp; data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,d3&theme=dark" alt="ml and data stack" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" />
-      <img src="https://seaborn.pydata.org/_images/logo-mark-darkbg.svg" width="48" height="48" alt="seaborn" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,spring,java,py,postgres&theme=dark" alt="backend stack" /></td>
   </tr>
   <tr>
     <td><b>mobile &amp; web</b></td>
